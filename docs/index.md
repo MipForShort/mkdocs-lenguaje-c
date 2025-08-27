@@ -10,6 +10,16 @@ Te invito a explorar los capítulos, practicar con los ejemplos y aprovechar est
 
 ---
 
+## Lista de contenido
+
+- [1. Introducción a los Lenguajes de Programación](1.-Introduccion-a-la-programacion-en-C.md)
+- [2. El Primer Programa en C](2.-El-Primer-Programa-en-C.md)
+- [3. Variables en C](3.-Variables-en-C.md)
+- [4. Asignación y Operadores en C](4.-Asignación.-Operadores.md)
+- [5. Estructuras de Control de Flujo](5.-Estructuras-de-control-de-flujo.md)
+
+---
+
 ## Acerca del proyecto
 
 Esta documentación está desarrollada con MkDocs, una herramienta sencilla y potente para crear sitios web de documentación usando Markdown.
